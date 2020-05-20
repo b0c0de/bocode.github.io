@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Bojan Cvjetkovic"
 title_separator          : "-"
-subtitle                 : # Personal portfolio
+subtitle                 : # Version 1.0
 name                     : "Bojan Cvjetkovic"
 description              : "An amazing website with portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
