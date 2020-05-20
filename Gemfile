@@ -1,2 +1,2 @@
 gem "jekyll-remote-theme"
-bundle install
+$ bundle install
